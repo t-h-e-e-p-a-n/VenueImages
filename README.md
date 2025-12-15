@@ -1,2 +1,2 @@
 # VenueCanadaImages
-Venue Canada Images for WhatsApp Bot
+Venue Mauritius Images for WhatsApp AI Assistant
